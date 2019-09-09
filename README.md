@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-##豆瓣影评情感分析
+## 豆瓣影评情感分析
 
 ## data processing
 + 清洗数据
